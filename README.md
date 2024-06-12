@@ -8,7 +8,6 @@
 ![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png)
 ![Meowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png)
 ![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png)
-![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
 ![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
 
 
