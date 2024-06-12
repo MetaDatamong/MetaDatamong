@@ -4,6 +4,13 @@
 ![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png)
 ![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png)
 ![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png)
+![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png)
+![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png)
+![Meowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png)
+![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png)
+![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
+![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png)
+
 
 <!--
 **MetaDatamong/MetaDatamong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
