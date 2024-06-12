@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
+![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png)
+![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png)
+![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png)
+
 <!--
 **MetaDatamong/MetaDatamong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
